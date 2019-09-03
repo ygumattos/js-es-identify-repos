@@ -1,2 +1,0 @@
-Para essas funcionalidades é necessário adicionar o plugin: 
-yarn add @babel/plugin-proposal-object-rest-spread
